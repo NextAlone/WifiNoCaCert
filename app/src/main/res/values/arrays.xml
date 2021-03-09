@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="xposedscope">
+    <item>com.google.android.settings</item>
+    <item>com.android.settings</item>
+    <item>ltd.nextalone.wifinocacert</item>
+  </string-array>
+</resources>
